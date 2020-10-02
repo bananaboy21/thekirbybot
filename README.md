@@ -1,5 +1,5 @@
 # The Kirby Bot
-A multipurpose bot, for multipurpose needs
+A multipurpose bot, for multipurpose needs.
 
 ~~# PLEASE NOTE
 The code is not for claiming as your own. There are multiple systems in place to make sure that this never happens.~~
@@ -12,3 +12,4 @@ The code is not for claiming as your own. There are multiple systems in place to
 
 # Bot is no longer continued.
 The code for this bot is no longer maintained. The code is still up for show, and for possibly being brought back to life, but is no longer maintained.
+Apologies for the inconvenience.
